@@ -4,7 +4,7 @@
 form{
   margin-top: 30px;
 }
-.postTitle{
+.postTitle, .commentBody{
   font-size: 20px;
   margin-left: 10px;
 }
